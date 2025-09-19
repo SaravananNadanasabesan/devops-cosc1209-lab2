@@ -20,7 +20,7 @@ jobs:
           java-version: 1.8
 
       - name: Echo Lab Message
-        run: echo "Hi, I am from COSC 1209 class from Saravanan"
+        run: echo "Hi, I am from COSC 1209 class from Saravanan Nadanasabesan"
 
       - name: Grant permission to gradlew
         run: chmod +x gradlew
